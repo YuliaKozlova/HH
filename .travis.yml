@@ -1,0 +1,23 @@
+language: csharp
+sudo: required
+dist: trusty
+mono: none
+dotnet: 2.0.0
+script: dotnet restore 
+before_script:
+- chmod a+x ./build.sh
+- chmod a+x ./test.sh
+??????????
+jobs:
+  include:
+  - stage: build
+    script: "./build.sh"
+  - stage: test
+    script: "./test.sh"
+  - stage: deploy
+    script: ???????
+deploy:
+  provider: azure_web_apps
+  username: Julikozlowa1@gmail.com     
+  password: password
+  site: ?????????
