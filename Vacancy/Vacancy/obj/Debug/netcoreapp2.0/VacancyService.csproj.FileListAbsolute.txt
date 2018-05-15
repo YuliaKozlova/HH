@@ -1,0 +1,13 @@
+D:\Desktop\HH\Vacancy\Vacancy\bin\Debug\netcoreapp2.0\VacancyService.deps.json
+D:\Desktop\HH\Vacancy\Vacancy\bin\Debug\netcoreapp2.0\VacancyService.runtimeconfig.json
+D:\Desktop\HH\Vacancy\Vacancy\bin\Debug\netcoreapp2.0\VacancyService.runtimeconfig.dev.json
+D:\Desktop\HH\Vacancy\Vacancy\bin\Debug\netcoreapp2.0\VacancyService.dll
+D:\Desktop\HH\Vacancy\Vacancy\bin\Debug\netcoreapp2.0\VacancyService.pdb
+D:\Desktop\HH\Vacancy\Vacancy\bin\Debug\netcoreapp2.0\RabbitModels.dll
+D:\Desktop\HH\Vacancy\Vacancy\bin\Debug\netcoreapp2.0\RabbitModels.pdb
+D:\Desktop\HH\Vacancy\Vacancy\obj\Debug\netcoreapp2.0\VacancyService.csprojResolveAssemblyReference.cache
+D:\Desktop\HH\Vacancy\Vacancy\obj\Debug\netcoreapp2.0\VacancyService.csproj.CoreCompileInputs.cache
+D:\Desktop\HH\Vacancy\Vacancy\obj\Debug\netcoreapp2.0\VacancyService.AssemblyInfoInputs.cache
+D:\Desktop\HH\Vacancy\Vacancy\obj\Debug\netcoreapp2.0\VacancyService.AssemblyInfo.cs
+D:\Desktop\HH\Vacancy\Vacancy\obj\Debug\netcoreapp2.0\VacancyService.dll
+D:\Desktop\HH\Vacancy\Vacancy\obj\Debug\netcoreapp2.0\VacancyService.pdb
