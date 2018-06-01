@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Сервис поиска работы</title>
+    <style>
+        .pointer {
+            cursor: pointer
+        }
+    </style>
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a asp-area="" asp-controller="Home" asp-action="Index" asp-route-id="" class="navbar-brand">Сервис поиска работы</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                
+                @{
+        var token = new Byte[500];
+        Context.Session.TryGetValue("Token", out token);
+        var login = new Byte[500];
+        Context.Session.TryGetValue("Login", out login);
+        string tokenString = "";
+        string tokenStringJS = "test";
+        if (login == null || (login != null && System.Text.Encoding.Default.GetString(login) == ""))
+        {
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+            <script>
+                $(document).ready(function () {
+                    $('#submitButton').click(function () {
+                        alert("you must be authorized!");
+                    });
+                    $('#submitButton2').click(function () {
+                        alert("you must be authorized!");
+                    });
+                });
+            </script>
+}
+
+                    <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Сервисы<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        @if (!(login == null || (login != null && System.Text.Encoding.Default.GetString(login) == "")))
+                        {
+                            <li><a asp-area="" asp-controller="Home" asp-action="GetResumes" asp-route-id="1">Резюме</a></li>
+                        }
+                        <li><a asp-area="" asp-controller="Home" asp-action="GetVacancys" asp-route-id="1">Вакансии</a></li>
+                    </ul>
+                </li>
+            </ul>
+if (token != null && System.Text.Encoding.Default.GetString(token) != "")
+{
+tokenStringJS = System.Text.Encoding.Default.GetString(token);
+
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+            <script>
+                var tkn = "@tokenStringJS";
+                alert(tkn);
+                var link = "@RabbitDLL.Linker.Aggregation";
+                            //_________________________________________________________________
+                            $(document).ready(function () {
+                                $('#submitButton').click(function () {
+                                    $.ajax({
+                                        url: link+"/allitems",
+                                        type: 'GET',
+                                        contentType: 'application/json',
+                                        headers: {
+                                            "Authorization": "Bearer " + tkn
+                                        },
+                                        async: false,
+                                        success: function (html) {
+                                            $(window.document.body).html(html);
+                                        }
+                                    });
+                                });
+                            });
+            </script>
+            @if (System.Text.Encoding.Default.GetString(login) == "July")
+{
+            
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Админ<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a id="submitButton" class="pointer">Рейтинг</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="GetUsers" asp-route-id="1">Пользователи</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="GetVacancys" asp-route-id="1">Вакансии</a></li>
+                    </ul>
+                </li>
+            </ul>
+}
+
+tokenString = System.Text.Encoding.Default.GetString(token);
+}
+
+if (tokenString == "")
+{
+tokenString = "false";
+            <ul class="nav navbar-nav navbar-right">
+                <li><a asp-area="" asp-controller="Home" asp-action="Registration" asp-route-id="1">Регистрация</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Authorisation" asp-route-id="1">Авторизация</a></li>
+            </ul>
+}
+else
+{
+            <ul class="nav navbar-nav navbar-right">
+                @{
+        if (token != null && System.Text.Encoding.Default.GetString(token) != "")
+        {
+            string loginString = System.Text.Encoding.Default.GetString(login);
+        }
+                }
+                <li><a asp-area="">Добро пожаловать, @System.Text.Encoding.Default.GetString(login)</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="LogOut" asp-route-id="1">Выход</a></li>
+            </ul>
+}
+                }
+            </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; Сервис поиска работы</p>
+        </footer>
+    </div>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

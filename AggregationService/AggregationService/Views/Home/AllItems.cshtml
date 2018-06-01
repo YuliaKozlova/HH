@@ -1,0 +1,42 @@
+﻿@model RabbitDLL.FullView
+
+@{
+    ViewData["Title"] = "AllItems";
+}
+
+<h2>Сводный рейтинг</h2>
+
+<p>
+    
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Название</th>
+            @foreach(var item in Model.CompanyCollection)
+            {
+                <th>@item</th>
+            }
+            <th>Зарплата</th>
+            @*<th>Count In Base</th>*@
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.ResumeCollection) {
+        <tr>
+            <th>@item.ResumeName</th>
+            @foreach (var Resume in Model.CompanyCollection)
+            {
+                <th>@item.CompanyParameters.Where(x => x.Key == Resume).FirstOrDefault().Value</th>
+            }
+            <th>@item.Salary</th>
+            @*<th>@item.Count</th>*@
+            @*<td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>*@
+        </tr>
+}
+    </tbody>
+</table>

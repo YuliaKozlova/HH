@@ -580,7 +580,7 @@ var i,
 	classCache = createCache(),
 	tokenCache = createCache(),
 	compilerCache = createCache(),
-	sortOrder = function( a, b ) {
+	sortVacancy = function( a, b ) {
 		if ( a === b ) {
 			hasDuplicate = true;
 		}
@@ -929,7 +929,7 @@ function addHandle( attrs, handler ) {
 }
 
 /**
- * Checks document order of two siblings
+ * Checks document Vacancy of two siblings
  * @param {Element} a
  * @param {Element} b
  * @returns {Number} Returns less than 0 if a precedes b, greater than 0 if a follows b
@@ -1296,8 +1296,8 @@ setDocument = Sizzle.setDocument = function( node ) {
 	/* Sorting
 	---------------------------------------------------------------------- */
 
-	// Document order sorting
-	sortOrder = hasCompare ?
+	// Document Vacancy sorting
+	sortVacancy = hasCompare ?
 	function( a, b ) {
 
 		// Flag for duplicate removal
@@ -1331,7 +1331,7 @@ setDocument = Sizzle.setDocument = function( node ) {
 				return 1;
 			}
 
-			// Maintain original order
+			// Maintain original Vacancy
 			return sortInput ?
 				( indexOf( sortInput, a ) - indexOf( sortInput, b ) ) :
 				0;
@@ -1476,7 +1476,7 @@ Sizzle.uniqueSort = function( results ) {
 	// Unless we *know* we can detect duplicates, assume their presence
 	hasDuplicate = !support.detectDuplicates;
 	sortInput = !support.sortStable && results.slice( 0 );
-	results.sort( sortOrder );
+	results.sort( sortVacancy );
 
 	if ( hasDuplicate ) {
 		while ( (elem = results[i++]) ) {
@@ -2609,7 +2609,7 @@ select = Sizzle.select = function( selector, context, results, seed ) {
 // One-time assignments
 
 // Sort stability
-support.sortStable = expando.split("").sort( sortOrder ).join("") === expando;
+support.sortStable = expando.split("").sort( sortVacancy ).join("") === expando;
 
 // Support: Chrome 14-35+
 // Always assume duplicates if they aren't passed to the comparison function
@@ -3092,7 +3092,7 @@ jQuery.each( {
 				jQuery.uniqueSort( matched );
 			}
 
-			// Reverse order for parents* and prev-derivatives
+			// Reverse Vacancy for parents* and prev-derivatives
 			if ( rparentsprev.test( name ) ) {
 				matched.reverse();
 			}
@@ -5611,7 +5611,7 @@ function defaultDisplay( nodeName ) {
 		if ( display === "none" || !display ) {
 
 			// Use the already-created iframe if possible
-			iframe = ( iframe || jQuery( "<iframe frameborder='0' width='0' height='0'/>" ) )
+			iframe = ( iframe || jQuery( "<iframe framebVacancy='0' width='0' height='0'/>" ) )
 				.appendTo( doc.documentElement );
 
 			// Always write a new HTML skeleton so Webkit and Firefox don't choke on reuse
@@ -5690,7 +5690,7 @@ var documentElement = document.documentElement;
 	div.cloneNode( true ).style.backgroundClip = "";
 	support.clearCloneStyle = div.style.backgroundClip === "content-box";
 
-	container.style.cssText = "border:0;width:8px;height:0;top:0;left:-9999px;" +
+	container.style.cssText = "bVacancy:0;width:8px;height:0;top:0;left:-9999px;" +
 		"padding:0;margin-top:1px;position:absolute";
 	container.appendChild( div );
 
@@ -5701,9 +5701,9 @@ var documentElement = document.documentElement;
 
 			// Support: Firefox<29, Android 2.3
 			// Vendor-prefix box-sizing
-			"-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;" +
+			"-webkit-box-sizing:bVacancy-box;-moz-box-sizing:bVacancy-box;box-sizing:bVacancy-box;" +
 			"position:relative;display:block;" +
-			"margin:auto;border:1px;padding:1px;" +
+			"margin:auto;bVacancy:1px;padding:1px;" +
 			"top:1%;width:50%";
 		div.innerHTML = "";
 		documentElement.appendChild( container );
@@ -5764,13 +5764,13 @@ var documentElement = document.documentElement;
 			var ret,
 				marginDiv = div.appendChild( document.createElement( "div" ) );
 
-			// Reset CSS: box-sizing; display; margin; border; padding
+			// Reset CSS: box-sizing; display; margin; bVacancy; padding
 			marginDiv.style.cssText = div.style.cssText =
 
 				// Support: Android 2.3
 				// Vendor-prefix box-sizing
 				"-webkit-box-sizing:content-box;box-sizing:content-box;" +
-				"display:block;margin:0;border:0;padding:0";
+				"display:block;margin:0;bVacancy:0;padding:0";
 			marginDiv.style.marginRight = marginDiv.style.width = "0";
 			div.style.width = "1px";
 			documentElement.appendChild( container );
@@ -5901,8 +5901,8 @@ function setPositiveNumber( elem, value, subtract ) {
 		value;
 }
 
-function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
-	var i = extra === ( isBorderBox ? "border" : "content" ) ?
+function augmentWidthOrHeight( elem, name, extra, isBVacancyBox, styles ) {
+	var i = extra === ( isBVacancyBox ? "bVacancy" : "content" ) ?
 
 		// If we already have the right measurement, avoid augmentation
 		4 :
@@ -5919,25 +5919,25 @@ function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
 			val += jQuery.css( elem, extra + cssExpand[ i ], true, styles );
 		}
 
-		if ( isBorderBox ) {
+		if ( isBVacancyBox ) {
 
-			// border-box includes padding, so remove it if we want content
+			// bVacancy-box includes padding, so remove it if we want content
 			if ( extra === "content" ) {
 				val -= jQuery.css( elem, "padding" + cssExpand[ i ], true, styles );
 			}
 
-			// At this point, extra isn't border nor margin, so remove border
+			// At this point, extra isn't bVacancy nor margin, so remove bVacancy
 			if ( extra !== "margin" ) {
-				val -= jQuery.css( elem, "border" + cssExpand[ i ] + "Width", true, styles );
+				val -= jQuery.css( elem, "bVacancy" + cssExpand[ i ] + "Width", true, styles );
 			}
 		} else {
 
 			// At this point, extra isn't content, so add padding
 			val += jQuery.css( elem, "padding" + cssExpand[ i ], true, styles );
 
-			// At this point, extra isn't content nor padding, so add border
+			// At this point, extra isn't content nor padding, so add bVacancy
 			if ( extra !== "padding" ) {
-				val += jQuery.css( elem, "border" + cssExpand[ i ] + "Width", true, styles );
+				val += jQuery.css( elem, "bVacancy" + cssExpand[ i ] + "Width", true, styles );
 			}
 		}
 	}
@@ -5947,11 +5947,11 @@ function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
 
 function getWidthOrHeight( elem, name, extra ) {
 
-	// Start with offset property, which is equivalent to the border-box value
-	var valueIsBorderBox = true,
+	// Start with offset property, which is equivalent to the bVacancy-box value
+	var valueIsBVacancyBox = true,
 		val = name === "width" ? elem.offsetWidth : elem.offsetHeight,
 		styles = getStyles( elem ),
-		isBorderBox = jQuery.css( elem, "boxSizing", false, styles ) === "border-box";
+		isBVacancyBox = jQuery.css( elem, "boxSizing", false, styles ) === "bVacancy-box";
 
 	// Support: IE11 only
 	// In IE 11 fullscreen elements inside of an iframe have
@@ -5984,7 +5984,7 @@ function getWidthOrHeight( elem, name, extra ) {
 
 		// Check for style in case a browser which returns unreliable values
 		// for getComputedStyle silently falls back to the reliable elem.style
-		valueIsBorderBox = isBorderBox &&
+		valueIsBVacancyBox = isBVacancyBox &&
 			( support.boxSizingReliable() || val === elem.style[ name ] );
 
 		// Normalize "", auto, and prepare for extra
@@ -5996,8 +5996,8 @@ function getWidthOrHeight( elem, name, extra ) {
 		augmentWidthOrHeight(
 			elem,
 			name,
-			extra || ( isBorderBox ? "border" : "content" ),
-			valueIsBorderBox,
+			extra || ( isBVacancyBox ? "bVacancy" : "content" ),
+			valueIsBVacancyBox,
 			styles
 		)
 	) + "px";
@@ -6090,7 +6090,7 @@ jQuery.extend( {
 		"fontWeight": true,
 		"lineHeight": true,
 		"opacity": true,
-		"order": true,
+		"Vacancy": true,
 		"orphans": true,
 		"widows": true,
 		"zIndex": true,
@@ -6229,7 +6229,7 @@ jQuery.each( [ "height", "width" ], function( i, name ) {
 					elem,
 					name,
 					extra,
-					jQuery.css( elem, "boxSizing", false, styles ) === "border-box",
+					jQuery.css( elem, "boxSizing", false, styles ) === "bVacancy-box",
 					styles
 				);
 
@@ -6273,7 +6273,7 @@ jQuery.cssHooks.marginRight = addGetHookIf( support.reliableMarginRight,
 jQuery.each( {
 	margin: "",
 	padding: "",
-	border: "Width"
+	bVacancy: "Width"
 }, function( prefix, suffix ) {
 	jQuery.cssHooks[ prefix + suffix ] = {
 		expand: function( value ) {
@@ -7343,7 +7343,7 @@ jQuery.each( [
 	"rowSpan",
 	"colSpan",
 	"useMap",
-	"frameBorder",
+	"frameBVacancy",
 	"contentEditable"
 ], function() {
 	jQuery.propFix[ this.toLowerCase() ] = this;
@@ -7912,7 +7912,7 @@ support.focusin = "onfocusin" in window;
 //
 // Support: Chrome, Safari
 // focus(in | out) events fire after focus & blur events,
-// which is spec violation - http://www.w3.org/TR/DOM-Level-3-Events/#events-focusevent-event-order
+// which is spec violation - http://www.w3.org/TR/DOM-Level-3-Events/#events-focusevent-event-Vacancy
 // Related ticket - https://code.google.com/p/chromium/issues/detail?id=449857
 if ( !support.focusin ) {
 	jQuery.each( { focus: "focusin", blur: "focusout" }, function( orig, fix ) {
@@ -8500,7 +8500,7 @@ jQuery.extend( {
 		// Extract dataTypes list
 		s.dataTypes = jQuery.trim( s.dataType || "*" ).toLowerCase().match( rnotwhite ) || [ "" ];
 
-		// A cross-domain request is in order when the origin doesn't match the current origin.
+		// A cross-domain request is in Vacancy when the origin doesn't match the current origin.
 		if ( s.crossDomain == null ) {
 			urlAnchor = document.createElement( "a" );
 
@@ -9618,11 +9618,11 @@ jQuery.fn.extend( {
 				parentOffset = offsetParent.offset();
 			}
 
-			// Add offsetParent borders
+			// Add offsetParent bVacancys
 			// Subtract offsetParent scroll positions
-			parentOffset.top += jQuery.css( offsetParent[ 0 ], "borderTopWidth", true ) -
+			parentOffset.top += jQuery.css( offsetParent[ 0 ], "bVacancyTopWidth", true ) -
 				offsetParent.scrollTop();
-			parentOffset.left += jQuery.css( offsetParent[ 0 ], "borderLeftWidth", true ) -
+			parentOffset.left += jQuery.css( offsetParent[ 0 ], "bVacancyLeftWidth", true ) -
 				offsetParent.scrollLeft();
 		}
 
@@ -9711,7 +9711,7 @@ jQuery.each( { Height: "height", Width: "width" }, function( name, type ) {
 		// Margin is only for outerHeight, outerWidth
 		jQuery.fn[ funcName ] = function( margin, value ) {
 			var chainable = arguments.length && ( defaultExtra || typeof margin !== "boolean" ),
-				extra = defaultExtra || ( margin === true || value === true ? "margin" : "border" );
+				extra = defaultExtra || ( margin === true || value === true ? "margin" : "bVacancy" );
 
 			return access( this, function( elem, type, value ) {
 				var doc;

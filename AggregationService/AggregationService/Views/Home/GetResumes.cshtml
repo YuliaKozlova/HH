@@ -1,0 +1,61 @@
+﻿@model IEnumerable<RabbitDLL.Resume>
+
+@{
+    ViewData["Title"] = "GetResumes";
+}
+
+<h2>Резюме</h2>
+
+<p>
+    <a asp-action="CreateResumes">Создать</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Speiality)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ResumeName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Salary)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Age)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Speiality)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ResumeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                <a asp-action="EditeResumes" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="DeleteResumes" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

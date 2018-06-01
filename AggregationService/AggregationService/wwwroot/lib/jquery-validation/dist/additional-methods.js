@@ -172,7 +172,7 @@ $.validator.addMethod( "cifES", function( value ) {
 	 *	N. Nonresident entities
 	 *	P. Local authorities
 	 *	Q. Autonomous bodies, state or not, and the like, and congregations and religious institutions
-	 *	R. Congregations and religious institutions (since 2008 ORDER EHA/451/2008)
+	 *	R. Congregations and religious institutions (since 2008 Vacancy EHA/451/2008)
 	 *	S. Organs of State Administration and regions
 	 *	V. Agrarian Transformation
 	 *	W. Permanent establishments of non-resident in Spain
@@ -778,13 +778,13 @@ $.validator.addMethod("postcodeUK", function(value, element) {
  *
  * The end result is that neither of these inputs:
  *
- *	<input class="productinfo" name="partnumber">
- *	<input class="productinfo" name="description">
+ *	<input class="Resumeinfo" name="partnumber">
+ *	<input class="Resumeinfo" name="description">
  *
  *	...will validate unless at least one of them is filled.
  *
- * partnumber:	{require_from_group: [1,".productinfo"]},
- * description: {require_from_group: [1,".productinfo"]}
+ * partnumber:	{require_from_group: [1,".Resumeinfo"]},
+ * description: {require_from_group: [1,".Resumeinfo"]}
  *
  * options[0]: number of fields that must be filled in the group
  * options[1]: CSS selector that defines the group of conditionally required fields
@@ -817,16 +817,16 @@ $.validator.addMethod("require_from_group", function(value, element, options) {
  *
  * The end result, is that none of these inputs:
  *
- *	<input class="productinfo" name="partnumber">
- *	<input class="productinfo" name="description">
- *	<input class="productinfo" name="color">
+ *	<input class="Resumeinfo" name="partnumber">
+ *	<input class="Resumeinfo" name="description">
+ *	<input class="Resumeinfo" name="color">
  *
  *	...will validate unless either at least two of them are filled,
  *	OR none of them are.
  *
- * partnumber:	{skip_or_fill_minimum: [2,".productinfo"]},
- * description: {skip_or_fill_minimum: [2,".productinfo"]},
- * color:		{skip_or_fill_minimum: [2,".productinfo"]}
+ * partnumber:	{skip_or_fill_minimum: [2,".Resumeinfo"]},
+ * description: {skip_or_fill_minimum: [2,".Resumeinfo"]},
+ * color:		{skip_or_fill_minimum: [2,".Resumeinfo"]}
  *
  * options[0]: number of fields that must be filled in the group
  * options[1]: CSS selector that defines the group of conditionally required fields

@@ -1,0 +1,14 @@
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\bin\Release\netcoreapp2.0\AggregationService.deps.json
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\bin\Release\netcoreapp2.0\AggregationService.runtimeconfig.json
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\bin\Release\netcoreapp2.0\AggregationService.runtimeconfig.dev.json
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\bin\Release\netcoreapp2.0\AggregationService.dll
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\bin\Release\netcoreapp2.0\AggregationService.pdb
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\bin\Release\netcoreapp2.0\RabbitDLL.dll
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\bin\Release\netcoreapp2.0\RabbitDLL.pdb
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\obj\Release\netcoreapp2.0\AggregationService.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\obj\Release\netcoreapp2.0\AggregationService.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\obj\Release\netcoreapp2.0\AggregationService.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\obj\Release\netcoreapp2.0\AggregationService.AssemblyInfo.cs
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\obj\Release\netcoreapp2.0\AggregationService.csproj.CopyComplete
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\obj\Release\netcoreapp2.0\AggregationService.dll
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AggregationService\AggregationService\obj\Release\netcoreapp2.0\AggregationService.pdb

@@ -1,8 +1,9 @@
-﻿using System;
+﻿using AuthorisationService.Functions;
+using RabbitDLL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using AuthorisationService.Models;
 
 namespace AuthorisationService.Data
 {
@@ -20,10 +21,8 @@ namespace AuthorisationService.Data
 
             var users = new User[]
             {
-                new User{ Login = "July", Password = "asdf"},
-                new User{ Login = "July", Password = "asdfg"},
-                new User{ Login = "Vova", Password = "asdfasd"},
-                new User{ Login = "Georg", Password = "asdasdfadsff"}
+                new User{ Login = "July", Password = Hasher.GetHashString("sad"), Role = "Admin"},
+                new User{ Login = "Georg", Password = Hasher.GetHashString("happy"), Role = "User"}
             };
             foreach (User s in users)
             {

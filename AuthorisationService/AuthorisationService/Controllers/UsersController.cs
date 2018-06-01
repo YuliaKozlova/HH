@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using AuthorisationService.Data;
-using AuthorisationService.Models;
+using RabbitDLL;
 using AuthorisationService.Functions;
 
 namespace AuthorisationService.Controllers
@@ -50,7 +50,7 @@ namespace AuthorisationService.Controllers
 
         // PUT: api/Users/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutUser([FromRoute] int id, [FromBody] UserViewModel user)
+        public async Task<IActionResult> PutUser([FromRoute] int id, [FromBody] User user)
         {
             if (!ModelState.IsValid)
             {
@@ -64,7 +64,7 @@ namespace AuthorisationService.Controllers
             var usrDB = _context.Users.Where(s => s.ID == user.ID && s.Login == user.Login).FirstOrDefault<User>();
             usrDB.LastToken = user.LastToken;
             _context.Entry(usrDB).State = EntityState.Modified;
-            
+
             try
             {
                 await _context.SaveChangesAsync();
@@ -87,7 +87,7 @@ namespace AuthorisationService.Controllers
 
         // POST: api/Users
         [HttpPost]
-        public async Task<IActionResult> PostUser([FromBody] UserViewModel user)
+        public async Task<IActionResult> PostUser([FromBody] User user)
         {
             if (!ModelState.IsValid)
             {
@@ -104,7 +104,7 @@ namespace AuthorisationService.Controllers
         // POST: api/Users/Find
         [Route("Find")]
         [HttpPost]
-        public IActionResult CheckUser([FromBody] UserViewModel user)
+        public IActionResult CheckUser([FromBody] User user)
         {
             if (!ModelState.IsValid)
             {
@@ -128,7 +128,7 @@ namespace AuthorisationService.Controllers
         // POST: api/Users/FindByLogin
         [Route("FindByLogin")]
         [HttpPost]
-        public IActionResult CheckUserWeak([FromBody] UserViewModel user)
+        public IActionResult CheckUserWeak([FromBody] User user)
         {
             if (!ModelState.IsValid)
             {
@@ -139,7 +139,7 @@ namespace AuthorisationService.Controllers
             //CHECK is REALUSER IN DATABASE
             foreach (User u in _context.Users)
             {
-                if (u.Login == RealUser.Login && u.LastToken == RealUser.LastToken )
+                if (u.Login == RealUser.Login && u.LastToken == RealUser.LastToken)
                 {
                     RealUser.ID = u.ID;
                     RealUser.Role = u.Role;

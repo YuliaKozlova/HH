@@ -1,0 +1,14 @@
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\bin\Debug\netcoreapp2.0\ResumeService.deps.json
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\bin\Debug\netcoreapp2.0\ResumeService.runtimeconfig.json
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\bin\Debug\netcoreapp2.0\ResumeService.runtimeconfig.dev.json
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\bin\Debug\netcoreapp2.0\ResumeService.dll
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\bin\Debug\netcoreapp2.0\ResumeService.pdb
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\bin\Debug\netcoreapp2.0\RabbitDLL.dll
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\bin\Debug\netcoreapp2.0\RabbitDLL.pdb
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.csproj.CoreCompileInputs.cache
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.AssemblyInfoInputs.cache
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.AssemblyInfo.cs
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.csproj.CopyComplete
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.dll
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.pdb
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.csprojAssemblyReference.cache

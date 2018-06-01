@@ -1,33 +1,53 @@
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.deps.json
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.json
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.dev.json
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.dll
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.pdb
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csprojResolveAssemblyReference.cache
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CoreCompileInputs.cache
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfoInputs.cache
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfo.cs
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.dll
-C:\Users\Natasha\Desktop\LR2\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.pdb
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.deps.json
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.json
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.dev.json
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.dll
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.pdb
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csprojResolveAssemblyReference.cache
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CoreCompileInputs.cache
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfoInputs.cache
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfo.cs
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.dll
-C:\Users\Natasha\Desktop\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.pdb
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.deps.json
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.json
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.dev.json
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.dll
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.pdb
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csprojResolveAssemblyReference.cache
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CoreCompileInputs.cache
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfoInputs.cache
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfo.cs
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.dll
-D:\Desktop\july\july\LR2_NEW\AuthorisationService\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.pdb
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.deps.json
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.json
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.dev.json
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.dll
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.pdb
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.dll
+C:\Users\Vladimir\Desktop\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.pdb
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.deps.json
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.json
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.dev.json
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.dll
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.pdb
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfo.cs
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.dll
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.pdb
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\RabbitDLL.dll
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\RabbitDLL.pdb
+C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CopyComplete
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.deps.json
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.json
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.dev.json
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.dll
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.pdb
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\RabbitDLL.dll
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\RabbitDLL.pdb
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csprojAssemblyReference.cache
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CoreCompileInputs.cache
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfoInputs.cache
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfo.cs
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CopyComplete
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.dll
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.pdb
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.deps.json
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.json
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.dev.json
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.dll
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.pdb
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\RabbitDLL.dll
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\RabbitDLL.pdb
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csprojAssemblyReference.cache
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CoreCompileInputs.cache
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfoInputs.cache
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfo.cs
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CopyComplete
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.dll
+D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.pdb

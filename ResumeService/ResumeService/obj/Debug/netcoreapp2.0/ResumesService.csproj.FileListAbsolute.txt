@@ -1,4 +1,0 @@
-D:\Desktop\LR2_NEW-master\ResumeService\ResumeService\obj\Debug\netcoreapp2.0\ResumesService.csprojResolveAssemblyReference.cache
-D:\Desktop\LR2_NEW-master\ResumeService\ResumeService\obj\Debug\netcoreapp2.0\ResumesService.csproj.CoreCompileInputs.cache
-D:\Desktop\LR2_NEW-master\ResumeService\ResumeService\obj\Debug\netcoreapp2.0\ResumesService.AssemblyInfoInputs.cache
-D:\Desktop\LR2_NEW-master\ResumeService\ResumeService\obj\Debug\netcoreapp2.0\ResumesService.AssemblyInfo.cs

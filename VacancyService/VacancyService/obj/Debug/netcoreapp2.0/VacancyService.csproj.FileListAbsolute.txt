@@ -1,0 +1,14 @@
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\bin\Debug\netcoreapp2.0\VacancyService.deps.json
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\bin\Debug\netcoreapp2.0\VacancyService.runtimeconfig.json
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\bin\Debug\netcoreapp2.0\VacancyService.runtimeconfig.dev.json
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\bin\Debug\netcoreapp2.0\VacancyService.dll
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\bin\Debug\netcoreapp2.0\VacancyService.pdb
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\bin\Debug\netcoreapp2.0\RabbitDLL.dll
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\bin\Debug\netcoreapp2.0\RabbitDLL.pdb
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\obj\Debug\netcoreapp2.0\VacancyService.csproj.CoreCompileInputs.cache
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\obj\Debug\netcoreapp2.0\VacancyService.AssemblyInfoInputs.cache
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\obj\Debug\netcoreapp2.0\VacancyService.AssemblyInfo.cs
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\obj\Debug\netcoreapp2.0\VacancyService.csproj.CopyComplete
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\obj\Debug\netcoreapp2.0\VacancyService.dll
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\obj\Debug\netcoreapp2.0\VacancyService.pdb
+D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\OrderService\OrderService\obj\Debug\netcoreapp2.0\VacancyService.csprojAssemblyReference.cache
