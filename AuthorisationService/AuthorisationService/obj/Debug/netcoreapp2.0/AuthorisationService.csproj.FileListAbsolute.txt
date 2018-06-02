@@ -51,3 +51,17 @@ D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\Author
 D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CopyComplete
 D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.dll
 D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.pdb
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.deps.json
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.json
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.runtimeconfig.dev.json
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.dll
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\AuthorisationService.pdb
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\RabbitDLL.dll
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\bin\Debug\netcoreapp2.0\RabbitDLL.pdb
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csprojAssemblyReference.cache
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CoreCompileInputs.cache
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfoInputs.cache
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.AssemblyInfo.cs
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.csproj.CopyComplete
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.dll
+C:\Users\Eldo\Documents\HH\AuthorisationService\AuthorisationService\obj\Debug\netcoreapp2.0\AuthorisationService.pdb

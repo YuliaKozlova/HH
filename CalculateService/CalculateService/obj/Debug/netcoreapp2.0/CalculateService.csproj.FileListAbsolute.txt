@@ -40,3 +40,17 @@ D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\Calcul
 D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.csproj.CopyComplete
 D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.dll
 D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.pdb
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\bin\Debug\netcoreapp2.0\CalculateService.deps.json
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\bin\Debug\netcoreapp2.0\CalculateService.runtimeconfig.json
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\bin\Debug\netcoreapp2.0\CalculateService.runtimeconfig.dev.json
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\bin\Debug\netcoreapp2.0\CalculateService.dll
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\bin\Debug\netcoreapp2.0\CalculateService.pdb
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\bin\Debug\netcoreapp2.0\RabbitDLL.dll
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\bin\Debug\netcoreapp2.0\RabbitDLL.pdb
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.csprojAssemblyReference.cache
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.csproj.CoreCompileInputs.cache
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.AssemblyInfoInputs.cache
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.AssemblyInfo.cs
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.csproj.CopyComplete
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.dll
+C:\Users\Eldo\Documents\HH\CalculateService\CalculateService\obj\Debug\netcoreapp2.0\CalculateService.pdb

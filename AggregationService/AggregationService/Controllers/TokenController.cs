@@ -44,7 +44,7 @@ namespace AggregationService.Controllers
                 HttpContext.Session.SetString("Token", token.Value);
                 HttpContext.Session.SetString("Login", user.Login);
 
-                //пихаем новый токен пользователю в бд
+                // новый токен пользователю в бд
                 var values = new JObject();
                 values.Add("id", userTruly.ID);
                 values.Add("login", userTruly.Login);
@@ -85,7 +85,7 @@ namespace AggregationService.Controllers
                                 .AddExpiry(200)
                                 .Build();
 
-                //пихаем новый токен пользователю в бд
+                // новый токен пользователю в бд
                 var values = new JObject();
                 values.Add("id", userTruly.ID);
                 values.Add("login", userTruly.Login);

@@ -9,7 +9,8 @@
       "RabbitDLL/1.0.0": {
         "dependencies": {
           "AspNetCore.Http.Extensions": "1.0.0",
-          "EasyNetQ": "2.3.3"
+          "EasyNetQ": "2.3.3",
+          "System.Data.SqlClient": "4.2.0.2"
         },
         "runtime": {
           "RabbitDLL.dll": {}
@@ -1042,6 +1043,11 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
+      },
+      "System.Data.SqlClient/4.2.0.2": {
+        "runtime": {
+          "System.Data.SqlClient.dll": {}
+        }
       }
     }
   },
@@ -1680,6 +1686,11 @@
       "sha512": "sha512-lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "System.Data.SqlClient/4.2.0.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

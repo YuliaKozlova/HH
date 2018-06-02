@@ -10,3 +10,15 @@ C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\RabbitDLL\RabbitDLL\Rabbi
 C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.csproj.CopyComplete
 C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.dll
 C:\Users\Vladimir\Documents\GitHub\RSOI_KURS\RSOI_KURS\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.pdb
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Release\netcoreapp2.0\RabbitDLL.deps.json
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Release\netcoreapp2.0\RabbitDLL.dll
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Release\netcoreapp2.0\RabbitDLL.pdb
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Release\netcoreapp2.0\System.Data.SqlClient.dll
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Release\netcoreapp2.0\System.Data.SqlClient.xml
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.csprojAssemblyReference.cache
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.csproj.CoreCompileInputs.cache
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.AssemblyInfoInputs.cache
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.AssemblyInfo.cs
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.csproj.CopyComplete
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.dll
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Release\netcoreapp2.0\RabbitDLL.pdb

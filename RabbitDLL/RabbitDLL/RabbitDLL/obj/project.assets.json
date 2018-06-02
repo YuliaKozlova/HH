@@ -5886,11 +5886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj",
+      "projectUniqueName": "C:\\Users\\Eldo\\Documents\\HH\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj",
       "projectName": "RabbitDLL",
-      "projectPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj",
+      "projectPath": "C:\\Users\\Eldo\\Documents\\HH\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj",
       "packagesPath": "C:\\Users\\Eldo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\RabbitDLL\\RabbitDLL\\RabbitDLL\\obj\\",
+      "outputPath": "C:\\Users\\Eldo\\Documents\\HH\\RabbitDLL\\RabbitDLL\\RabbitDLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

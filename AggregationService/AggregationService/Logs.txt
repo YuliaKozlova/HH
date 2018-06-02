@@ -4014,3 +4014,298 @@ Status: OK
 
 
 
+6366350381366474338 - Request: SERVICE: AuthorisationService 
+POST: http://localhost:54196//api/Users/Find
+Accept: application/json
+
+{
+  "Login": "July",
+  "Password": "sad"
+}
+
+6366350381366474338 - Response: Date: Fri, 01 Jun 2018 23:36:53 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcQXV0aG9yaXNhdGlvblNlcnZpY2VcQXV0aG9yaXNhdGlvblNlcnZpY2VcYXBpXFVzZXJzXEZpbmQ=?=
+X-Powered-By: ASP.NET
+
+Status: OK
+{"id":1,"login":"July","password":"16cfe4f2e1519c415b9b11024c0cba52","role":"Admin","lastToken":null}
+
+
+
+6366350381394959159 - Request: SERVICE: AuthorisationService 
+PUT: http://localhost:54196//api/Users/1
+Accept: application/json
+
+{
+  "id": 1,
+  "login": "July",
+  "password": "16cfe4f2e1519c415b9b11024c0cba52",
+  "role": "Admin",
+  "lasttoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKdWx5IiwianRpIjoiOTQxYjdlNDUtNmIwNC00ZjE5LWJhNmEtZTNiZGFiNzBhYTQ3IiwiQWRtaW4iOiIxIiwiZXhwIjoxNTI3OTA4MjEzLCJpc3MiOiJUZXN0LlNlY3VyaXR5LkJlYXJlciIsImF1ZCI6IlRlc3QuU2VjdXJpdHkuQmVhcmVyIn0.H98c8P0SKZenkdIOUdFaCaf_azsJ8o-I5e4_ocItBY4"
+}
+
+6366350381394959159 - Response: Date: Fri, 01 Jun 2018 23:36:53 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcQXV0aG9yaXNhdGlvblNlcnZpY2VcQXV0aG9yaXNhdGlvblNlcnZpY2VcYXBpXFVzZXJzXDE=?=
+X-Powered-By: ASP.NET
+
+Status: Accepted
+{"id":1,"login":"July","password":"16cfe4f2e1519c415b9b11024c0cba52","role":"Admin","lastToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKdWx5IiwianRpIjoiOTQxYjdlNDUtNmIwNC00ZjE5LWJhNmEtZTNiZGFiNzBhYTQ3IiwiQWRtaW4iOiIxIiwiZXhwIjoxNTI3OTA4MjEzLCJpc3MiOiJUZXN0LlNlY3VyaXR5LkJlYXJlciIsImF1ZCI6IlRlc3QuU2VjdXJpdHkuQmVhcmVyIn0.H98c8P0SKZenkdIOUdFaCaf_azsJ8o-I5e4_ocItBY4"}
+
+
+
+6366350381801311629 - Request: SERVICE: ArtistService 
+GET: https://localhost:44353///api/Resumes/full/cortege
+Accept: application/json
+
+
+6366350381801311629 - Response: Date: Fri, 01 Jun 2018 23:36:58 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcUmVzdW1lU2VydmljZVxSZXN1bWVTZXJ2aWNlXFJlc3VtZXNTZXJ2aWNlXGFwaVxSZXN1bWVzXGZ1bGxcY29ydGVnZQ==?=
+X-Powered-By: ASP.NET
+
+Status: OK
+{"companyCollection":["Micrisoft","CINIMEX","IBM"],"resumeCollection":[{"resumeName":"Senior Programmer","companyParameters":{"Micrisoft":10000,"CINIMEX":70000,"IBM":70000},"salary":2000000.0,"count":55457},{"resumeName":"Leader Business Analythic","companyParameters":{"Micrisoft":3000,"CINIMEX":5000,"IBM":30000000},"salary":2500000.0,"count":25},{"resumeName":"Старший дворник по подъезду","companyParameters":{},"salary":150000.0,"count":18}]}
+
+
+
+6366350382900548998 - Request: SERVICE: AuthorisationService 
+POST: http://localhost:54196//api/Users/Find
+Accept: application/json
+
+{
+  "Login": "July",
+  "Password": "sad"
+}
+
+6366350382900548998 - Response: Date: Fri, 01 Jun 2018 23:37:09 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcQXV0aG9yaXNhdGlvblNlcnZpY2VcQXV0aG9yaXNhdGlvblNlcnZpY2VcYXBpXFVzZXJzXEZpbmQ=?=
+X-Powered-By: ASP.NET
+
+Status: OK
+{"id":1,"login":"July","password":"16cfe4f2e1519c415b9b11024c0cba52","role":"Admin","lastToken":null}
+
+
+
+6366350382907932658 - Request: SERVICE: AuthorisationService 
+PUT: http://localhost:54196//api/Users/1
+Accept: application/json
+
+{
+  "id": 1,
+  "login": "July",
+  "password": "16cfe4f2e1519c415b9b11024c0cba52",
+  "role": "Admin",
+  "lasttoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKdWx5IiwianRpIjoiZmIzZjQ2ZDMtNjVjNy00MGZlLTlhZTYtZmFiMDk3MTdjNTEyIiwiQWRtaW4iOiIxIiwiZXhwIjoxNTI3OTA4MjI5LCJpc3MiOiJUZXN0LlNlY3VyaXR5LkJlYXJlciIsImF1ZCI6IlRlc3QuU2VjdXJpdHkuQmVhcmVyIn0.pGuUUYFBIfmab0V5wYpFrm4lG5DRWbBGgi8y-7KHC9Y"
+}
+
+6366350382907932658 - Response: Date: Fri, 01 Jun 2018 23:37:09 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcQXV0aG9yaXNhdGlvblNlcnZpY2VcQXV0aG9yaXNhdGlvblNlcnZpY2VcYXBpXFVzZXJzXDE=?=
+X-Powered-By: ASP.NET
+
+Status: Accepted
+{"id":1,"login":"July","password":"16cfe4f2e1519c415b9b11024c0cba52","role":"Admin","lastToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKdWx5IiwianRpIjoiZmIzZjQ2ZDMtNjVjNy00MGZlLTlhZTYtZmFiMDk3MTdjNTEyIiwiQWRtaW4iOiIxIiwiZXhwIjoxNTI3OTA4MjI5LCJpc3MiOiJUZXN0LlNlY3VyaXR5LkJlYXJlciIsImF1ZCI6IlRlc3QuU2VjdXJpdHkuQmVhcmVyIn0.pGuUUYFBIfmab0V5wYpFrm4lG5DRWbBGgi8y-7KHC9Y"}
+
+
+
+6366350383211967579 - Request: SERVICE: ArtistService 
+GET: http://localhost:54196//api/users
+Accept: application/json
+
+
+6366350383211967579 - Response: Date: Fri, 01 Jun 2018 23:37:12 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcQXV0aG9yaXNhdGlvblNlcnZpY2VcQXV0aG9yaXNhdGlvblNlcnZpY2VcYXBpXHVzZXJz?=
+X-Powered-By: ASP.NET
+
+Status: OK
+[{"id":1,"login":"July","password":"16cfe4f2e1519c415b9b11024c0cba52","role":"Admin","lastToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKdWx5IiwianRpIjoiZmIzZjQ2ZDMtNjVjNy00MGZlLTlhZTYtZmFiMDk3MTdjNTEyIiwiQWRtaW4iOiIxIiwiZXhwIjoxNTI3OTA4MjI5LCJpc3MiOiJUZXN0LlNlY3VyaXR5LkJlYXJlciIsImF1ZCI6IlRlc3QuU2VjdXJpdHkuQmVhcmVyIn0.pGuUUYFBIfmab0V5wYpFrm4lG5DRWbBGgi8y-7KHC9Y"},{"id":2,"login":"Georg","password":"0eaa49b13340bc2514b45219c7428742","role":"User","lastToken":null},{"id":1002,"login":"Юля","password":"5fa285e1bebe0a6623e33afc04a1fbd5","role":"User","lastToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiLQrtC70Y8iLCJqdGkiOiJmYjZlMzA4Ny03ODdmLTRkMDctYTA3YS02NzliNDkzNjM2ZTIiLCJVc2VyIjoiMTAwMiIsImV4cCI6MTUyNzkwMDI1NywiaXNzIjoiVGVzdC5TZWN1cml0eS5CZWFyZXIiLCJhdWQiOiJUZXN0LlNlY3VyaXR5LkJlYXJlciJ9.dUrpAoSzJFF5AkiJR6yDbFmxvWfvVpt3mKnoOIRxG4s"}]
+
+
+
+63663503837050333311 - Request: SERVICE: ArtistService 
+GET: http://localhost:61478//api/VacancyItems
+Accept: application/json
+
+
+63663503837050333311 - Response: Date: Fri, 01 Jun 2018 23:37:17 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcVmFjYW5jeVNlcnZpY2VcVmFjYW5jeVNlcnZpY2VcYXBpXFZhY2FuY3lJdGVtcw==?=
+X-Powered-By: ASP.NET
+
+Status: OK
+[{"id":1,"vacancyName":"Harry Potter=2","adress":"Geroyev Panfilovcev, 14/53","salary":3000.0,"userInfo":"Vladimir","vacancyInfo":"Во второй половине дня, номер для связи +7925ххххххх"},{"id":2,"vacancyName":"Harry Potter=1;The Witcher 3=1","adress":"Фрязино, пр. Мира, 10/40","salary":2300.0,"userInfo":"Наталия","vacancyInfo":"Перед доставкой позвонить, номер для связи +7926ххххххх"}]
+
+
+
+6366350451524119148 - Request: SERVICE: AuthorisationService 
+POST: http://localhost:54196//api/Users/Find
+Accept: application/json
+
+{
+  "Login": "July",
+  "Password": "sad"
+}
+
+6366350451524119148 - Response: Date: Fri, 01 Jun 2018 23:48:35 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcQXV0aG9yaXNhdGlvblNlcnZpY2VcQXV0aG9yaXNhdGlvblNlcnZpY2VcYXBpXFVzZXJzXEZpbmQ=?=
+X-Powered-By: ASP.NET
+
+Status: OK
+{"id":1,"login":"July","password":"16cfe4f2e1519c415b9b11024c0cba52","role":"Admin","lastToken":null}
+
+
+
+6366350451567372508 - Request: SERVICE: AuthorisationService 
+PUT: http://localhost:54196//api/Users/1
+Accept: application/json
+
+{
+  "id": 1,
+  "login": "July",
+  "password": "16cfe4f2e1519c415b9b11024c0cba52",
+  "role": "Admin",
+  "lasttoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKdWx5IiwianRpIjoiNDU0NmM3MjMtOTM0MS00NWUwLThhMTktZDcxMzQ4NDQwNDY4IiwiQWRtaW4iOiIxIiwiZXhwIjoxNTI3OTA4OTE1LCJpc3MiOiJUZXN0LlNlY3VyaXR5LkJlYXJlciIsImF1ZCI6IlRlc3QuU2VjdXJpdHkuQmVhcmVyIn0.Vla65p5VndZF6mSQhwJ3CYn9Wvaujjw3bwHESMYP8Xo"
+}
+
+6366350451567372508 - Response: Date: Fri, 01 Jun 2018 23:48:35 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcQXV0aG9yaXNhdGlvblNlcnZpY2VcQXV0aG9yaXNhdGlvblNlcnZpY2VcYXBpXFVzZXJzXDE=?=
+X-Powered-By: ASP.NET
+
+Status: Accepted
+{"id":1,"login":"July","password":"16cfe4f2e1519c415b9b11024c0cba52","role":"Admin","lastToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKdWx5IiwianRpIjoiNDU0NmM3MjMtOTM0MS00NWUwLThhMTktZDcxMzQ4NDQwNDY4IiwiQWRtaW4iOiIxIiwiZXhwIjoxNTI3OTA4OTE1LCJpc3MiOiJUZXN0LlNlY3VyaXR5LkJlYXJlciIsImF1ZCI6IlRlc3QuU2VjdXJpdHkuQmVhcmVyIn0.Vla65p5VndZF6mSQhwJ3CYn9Wvaujjw3bwHESMYP8Xo"}
+
+
+
+6366350452131502568 - Request: SERVICE: ArtistService 
+GET: http://localhost:61478//api/VacancyItems
+Accept: application/json
+
+
+6366350452131502568 - Response: Date: Fri, 01 Jun 2018 23:48:40 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcVmFjYW5jeVNlcnZpY2VcVmFjYW5jeVNlcnZpY2VcYXBpXFZhY2FuY3lJdGVtcw==?=
+X-Powered-By: ASP.NET
+
+Status: OK
+[{"id":1,"vacancyName":"Конфигурирование и поддержка программ на базе УТ 11 (Платформа 1С:Предприятие 8.3). Доработка функционала типовых конфигураций 1С...Опыт работы программистом 1С 8.2(8.3) от 3 лет=2","adress":"Глухова Ольга Викторовна","salary":300000.0,"userInfo":"Не готова к командировкам. Не готова к переезду. Управление продажами, маркетинг, мерчендайзинг, Навыки работы с документацией, разработки регламентов, ведения отчетности","vacancyInfo":" номер для связи +7925ххххххх"},{"id":2,"vacancyName":"Конфигурирование и поддержка программ на базе УТ 11 (Платформа 1С:Предприятие 8.3). Доработка функционала типовых конфигураций 1С...Опыт работы программистом 1С 8.2(8.3) от 3 лет=1;Программирование и конфигурирование на базе платформы 1С 8. Написание отчетов, обработок, создание печатных форм. =1","adress":"Попов Олег Викторович","salary":23000.0,"userInfo":"Разработка алгоритмов функционального программного обеспечения бортовой вычислительной машины. - Разработка многофункциональных индикаторов","vacancyInfo":"номер для связи +7926ххххххх"}]
+
+
+
+6366350453860231729 - Request: SERVICE: ArtistService 
+GET: https://localhost:44353///api/Resumes
+Accept: application/json
+
+
+6366350453860231729 - Response: Date: Fri, 01 Jun 2018 23:48:58 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcUmVzdW1lU2VydmljZVxSZXN1bWVTZXJ2aWNlXFJlc3VtZXNTZXJ2aWNlXGFwaVxSZXN1bWVz?=
+X-Powered-By: ASP.NET
+
+Status: OK
+[{"id":1,"speiality":"Programmer","resumeName":"Senior Programmer","salary":2000000.0,"age":55457,"boundedWith":null},{"id":2,"speiality":"Business Analythic","resumeName":"Leader Business Analythic","salary":2500000.0,"age":25,"boundedWith":null},{"id":2002,"speiality":"Дворник","resumeName":"Старший дворник по подъезду","salary":150000.0,"age":18,"boundedWith":null}]
+
+
+
+63663504546545095010 - Request: SERVICE: ArtistService 
+GET: https://localhost:44353///api/Resumes
+Accept: application/json
+
+
+63663504546545095010 - Response: Date: Fri, 01 Jun 2018 23:49:06 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcUmVzdW1lU2VydmljZVxSZXN1bWVTZXJ2aWNlXFJlc3VtZXNTZXJ2aWNlXGFwaVxSZXN1bWVz?=
+X-Powered-By: ASP.NET
+
+Status: OK
+[{"id":1,"speiality":"Programmer","resumeName":"Senior Programmer","salary":2000000.0,"age":55457,"boundedWith":null},{"id":2,"speiality":"Business Analythic","resumeName":"Leader Business Analythic","salary":2500000.0,"age":25,"boundedWith":null},{"id":2002,"speiality":"Дворник","resumeName":"Старший дворник по подъезду","salary":150000.0,"age":18,"boundedWith":null}]
+
+
+
+6366350455123434779 - Request: SERVICE: ArtistService 
+GET: https://localhost:44353///api/Resumes/1
+Accept: application/json
+
+
+6366350455123434779 - Response: Date: Fri, 01 Jun 2018 23:49:11 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcUmVzdW1lU2VydmljZVxSZXN1bWVTZXJ2aWNlXFJlc3VtZXNTZXJ2aWNlXGFwaVxSZXN1bWVzXDE=?=
+X-Powered-By: ASP.NET
+
+Status: OK
+{"id":1,"speiality":"Programmer","resumeName":"Senior Programmer","salary":2000000.0,"age":55457,"boundedWith":null}
+
+
+
+63663504592206589912 - Request: SERVICE: AuthorisationService 
+PUT: https://localhost:44353///api/Resumes/1
+Accept: application/json
+
+{
+  "ID": 1,
+  "Speiality": "Инженер по автоматизации/ инженер-программист АСУ ТП",
+  "ResumeName": "Разработка ПО для систем АСУТП на базе контроллеров S7-200//300/400/1200 (Siemens). Программирование панелей оператора (HMI), Siemens",
+  "Salary": 2000000.0,
+  "Age": 55457
+}
+
+63663504592206589912 - Response: Date: Fri, 01 Jun 2018 23:49:52 GMT
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcUmVzdW1lU2VydmljZVxSZXN1bWVTZXJ2aWNlXFJlc3VtZXNTZXJ2aWNlXGFwaVxSZXN1bWVzXDE=?=
+X-Powered-By: ASP.NET
+
+Status: NoContent
+
+
+
+
+63663504596063304810 - Request: SERVICE: ArtistService 
+GET: https://localhost:44353///api/Resumes
+Accept: application/json
+
+
+63663504596063304810 - Response: Date: Fri, 01 Jun 2018 23:49:56 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcUmVzdW1lU2VydmljZVxSZXN1bWVTZXJ2aWNlXFJlc3VtZXNTZXJ2aWNlXGFwaVxSZXN1bWVz?=
+X-Powered-By: ASP.NET
+
+Status: OK
+[{"id":1,"speiality":"Инженер по автоматизации/ инженер-программист АСУ ТП","resumeName":"Разработка ПО для систем АСУТП на базе контроллеров S7-200//300/400/1200 (Siemens). Программирование панелей оператора (HMI), Siemens","salary":2000000.0,"age":55457,"boundedWith":null},{"id":2,"speiality":"Business Analythic","resumeName":"Leader Business Analythic","salary":2500000.0,"age":25,"boundedWith":null},{"id":2002,"speiality":"Дворник","resumeName":"Старший дворник по подъезду","salary":150000.0,"age":18,"boundedWith":null}]
+
+
+
+63663504605881248710 - Request: SERVICE: ArtistService 
+GET: http://localhost:61478//api/VacancyItems
+Accept: application/json
+
+
+63663504605881248710 - Response: Date: Fri, 01 Jun 2018 23:50:05 GMT
+Transfer-Encoding: chunked
+Server: Kestrel
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcRWxkb1xEb2N1bWVudHNcSEhcVmFjYW5jeVNlcnZpY2VcVmFjYW5jeVNlcnZpY2VcYXBpXFZhY2FuY3lJdGVtcw==?=
+X-Powered-By: ASP.NET
+
+Status: OK
+[{"id":1,"vacancyName":"Конфигурирование и поддержка программ на базе УТ 11 (Платформа 1С:Предприятие 8.3). Доработка функционала типовых конфигураций 1С...Опыт работы программистом 1С 8.2(8.3) от 3 лет=2","adress":"Глухова Ольга Викторовна","salary":300000.0,"userInfo":"Не готова к командировкам. Не готова к переезду. Управление продажами, маркетинг, мерчендайзинг, Навыки работы с документацией, разработки регламентов, ведения отчетности","vacancyInfo":" номер для связи +7925ххххххх"},{"id":2,"vacancyName":"Конфигурирование и поддержка программ на базе УТ 11 (Платформа 1С:Предприятие 8.3). Доработка функционала типовых конфигураций 1С...Опыт работы программистом 1С 8.2(8.3) от 3 лет=1;Программирование и конфигурирование на базе платформы 1С 8. Написание отчетов, обработок, создание печатных форм. =1","adress":"Попов Олег Викторович","salary":23000.0,"userInfo":"Разработка алгоритмов функционального программного обеспечения бортовой вычислительной машины. - Разработка многофункциональных индикаторов","vacancyInfo":"номер для связи +7926ххххххх"}]
+
+
+

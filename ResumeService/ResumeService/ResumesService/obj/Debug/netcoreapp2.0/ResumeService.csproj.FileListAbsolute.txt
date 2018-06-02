@@ -12,3 +12,17 @@ D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\Produ
 D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.dll
 D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.pdb
 D:\Desktop\RSOI_KURS-master (1)\RSOI_KURS-master\RSOI_KURS\ProductsService\ProductsService\ProductsService\obj\Debug\netcoreapp2.0\ResumeService.csprojAssemblyReference.cache
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\bin\Debug\netcoreapp2.0\ResumeService.deps.json
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\bin\Debug\netcoreapp2.0\ResumeService.runtimeconfig.json
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\bin\Debug\netcoreapp2.0\ResumeService.runtimeconfig.dev.json
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\bin\Debug\netcoreapp2.0\ResumeService.dll
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\bin\Debug\netcoreapp2.0\ResumeService.pdb
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\bin\Debug\netcoreapp2.0\RabbitDLL.dll
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\bin\Debug\netcoreapp2.0\RabbitDLL.pdb
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\obj\Debug\netcoreapp2.0\ResumeService.csprojAssemblyReference.cache
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\obj\Debug\netcoreapp2.0\ResumeService.csproj.CoreCompileInputs.cache
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\obj\Debug\netcoreapp2.0\ResumeService.AssemblyInfoInputs.cache
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\obj\Debug\netcoreapp2.0\ResumeService.AssemblyInfo.cs
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\obj\Debug\netcoreapp2.0\ResumeService.csproj.CopyComplete
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\obj\Debug\netcoreapp2.0\ResumeService.dll
+C:\Users\Eldo\Documents\HH\ResumeService\ResumeService\ResumesService\obj\Debug\netcoreapp2.0\ResumeService.pdb

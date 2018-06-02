@@ -16,8 +16,8 @@ namespace VacancyService.Data
             {
                 return;   // DB has been seeded
             }
-            Resume first = new Resume { Speiality = "Book", ResumeName = "Harry Potter", Salary = 2000, Age = 1 };
-            Resume second = new Resume { Speiality = "ComputerItem", ResumeName = "The Witcher 3", Salary = 2500, Age = 2 };
+            Resume first = new Resume { Speiality = "Программист", ResumeName = "Конфигурирование и поддержка программ на базе УТ 11 (Платформа 1С:Предприятие 8.3). Доработка функционала типовых конфигураций 1С...Опыт работы программистом 1С 8.2(8.3) от 3 лет", Salary = 200000, Age = 21};
+            Resume second = new Resume { Speiality = "Программист 1С", ResumeName = "Программирование и конфигурирование на базе платформы 1С 8. Написание отчетов, обработок, создание печатных форм. ", Salary = 28500, Age = 2 };
 
             Dictionary<Resume, int> firstVacancy = new Dictionary<Resume, int>();
             firstVacancy.Add(first, 2);
@@ -34,8 +34,8 @@ namespace VacancyService.Data
             var Vacancys = new VacancyItems[]
             {
 
-                new VacancyItems("Geroyev Panfilovcev, 14/53", "Vladimir", 3000, "Во второй половине дня, номер для связи +7925ххххххх") { VacancyName = firstString },
-                new VacancyItems("Фрязино, пр. Мира, 10/40", "Наталия", 2300, "Перед доставкой позвонить, номер для связи +7926ххххххх") { VacancyName = secondString }
+                new VacancyItems("Глухова Ольга Викторовна", "Не готова к командировкам. Не готова к переезду. Управление продажами, маркетинг, мерчендайзинг, Навыки работы с документацией, разработки регламентов, ведения отчетности", 300000, " номер для связи +7925ххххххх") { VacancyName = firstString },
+                new VacancyItems("Попов Олег Викторович", "Разработка алгоритмов функционального программного обеспечения бортовой вычислительной машины. - Разработка многофункциональных индикаторов", 23000, "номер для связи +7926ххххххх") { VacancyName = secondString }
             };
 
             foreach (VacancyItems p in Vacancys)

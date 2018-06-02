@@ -13248,11 +13248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\AuthorisationService\\AuthorisationService\\AuthorisationService.csproj",
+      "projectUniqueName": "C:\\Users\\Eldo\\Documents\\HH\\AuthorisationService\\AuthorisationService\\AuthorisationService.csproj",
       "projectName": "AuthorisationService",
-      "projectPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\AuthorisationService\\AuthorisationService\\AuthorisationService.csproj",
+      "projectPath": "C:\\Users\\Eldo\\Documents\\HH\\AuthorisationService\\AuthorisationService\\AuthorisationService.csproj",
       "packagesPath": "C:\\Users\\Eldo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\AuthorisationService\\AuthorisationService\\obj\\",
+      "outputPath": "C:\\Users\\Eldo\\Documents\\HH\\AuthorisationService\\AuthorisationService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13271,8 +13271,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj": {
-              "projectPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj"
+            "C:\\Users\\Eldo\\Documents\\HH\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj": {
+              "projectPath": "C:\\Users\\Eldo\\Documents\\HH\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj"
             }
           }
         }

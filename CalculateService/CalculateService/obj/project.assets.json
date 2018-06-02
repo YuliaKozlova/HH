@@ -12660,11 +12660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\CalculateService\\CalculateService\\CalculateService.csproj",
+      "projectUniqueName": "C:\\Users\\Eldo\\Documents\\HH\\CalculateService\\CalculateService\\CalculateService.csproj",
       "projectName": "CalculateService",
-      "projectPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\CalculateService\\CalculateService\\CalculateService.csproj",
+      "projectPath": "C:\\Users\\Eldo\\Documents\\HH\\CalculateService\\CalculateService\\CalculateService.csproj",
       "packagesPath": "C:\\Users\\Eldo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\CalculateService\\CalculateService\\obj\\",
+      "outputPath": "C:\\Users\\Eldo\\Documents\\HH\\CalculateService\\CalculateService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12683,8 +12683,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj": {
-              "projectPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj"
+            "C:\\Users\\Eldo\\Documents\\HH\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj": {
+              "projectPath": "C:\\Users\\Eldo\\Documents\\HH\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj"
             }
           }
         }

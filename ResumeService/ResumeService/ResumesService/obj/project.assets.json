@@ -13248,11 +13248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\ResumeService\\ResumeService\\ResumesService\\ResumeService.csproj",
+      "projectUniqueName": "C:\\Users\\Eldo\\Documents\\HH\\ResumeService\\ResumeService\\ResumesService\\ResumeService.csproj",
       "projectName": "ResumeService",
-      "projectPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\ResumeService\\ResumeService\\ResumesService\\ResumeService.csproj",
+      "projectPath": "C:\\Users\\Eldo\\Documents\\HH\\ResumeService\\ResumeService\\ResumesService\\ResumeService.csproj",
       "packagesPath": "C:\\Users\\Eldo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\ResumeService\\ResumeService\\ResumesService\\obj\\",
+      "outputPath": "C:\\Users\\Eldo\\Documents\\HH\\ResumeService\\ResumeService\\ResumesService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13271,8 +13271,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj": {
-              "projectPath": "D:\\Desktop\\RSOI_KURS-master (1) — копия\\RSOI_KURS-master\\RSOI_KURS\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj"
+            "C:\\Users\\Eldo\\Documents\\HH\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj": {
+              "projectPath": "C:\\Users\\Eldo\\Documents\\HH\\RabbitDLL\\RabbitDLL\\RabbitDLL\\RabbitDLL.csproj"
             }
           }
         }

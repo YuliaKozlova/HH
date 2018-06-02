@@ -28,3 +28,15 @@ D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\Rabbit
 D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.AssemblyInfo.cs
 D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.dll
 D:\Desktop\RSOI_KURS-master (1) — копия\RSOI_KURS-master\RSOI_KURS\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.pdb
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Debug\netcoreapp2.0\RabbitDLL.deps.json
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Debug\netcoreapp2.0\RabbitDLL.dll
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Debug\netcoreapp2.0\RabbitDLL.pdb
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Debug\netcoreapp2.0\System.Data.SqlClient.dll
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\bin\Debug\netcoreapp2.0\System.Data.SqlClient.xml
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.csprojAssemblyReference.cache
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.csproj.CoreCompileInputs.cache
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.AssemblyInfoInputs.cache
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.AssemblyInfo.cs
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.csproj.CopyComplete
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.dll
+C:\Users\Eldo\Documents\HH\RabbitDLL\RabbitDLL\RabbitDLL\obj\Debug\netcoreapp2.0\RabbitDLL.pdb
